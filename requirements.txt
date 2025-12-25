@@ -1,0 +1,9 @@
+-e git+https://github.com/Prakharprasun/finmetrix.git@0751d524cbc7a591e687dbb58d9dc400900ce3f6#egg=finmetrix
+iniconfig==2.3.0
+packaging==25.0
+pathspec==0.12.1
+pluggy==1.6.0
+pybind11==3.0.1
+Pygments==2.19.2
+pytest==9.0.2
+scikit_build_core==0.11.6
